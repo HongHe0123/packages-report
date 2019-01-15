@@ -7,3 +7,4 @@ B <- 2
 c <- a + B
 print(c)
 # something
+print(a)
